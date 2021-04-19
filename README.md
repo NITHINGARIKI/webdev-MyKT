@@ -31,5 +31,3 @@
   #Screen = B/w 320px to 479px
  - @media (min-width: 320px) and (max-width: 480px) 
   
-  /* CSS */
-  
