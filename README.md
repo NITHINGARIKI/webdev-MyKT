@@ -35,14 +35,16 @@
 # VS CODE EXTENSTIONS:
   ✅ Installed VS Code Extensions: 11
 
-  -https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
-  -https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
-  -https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
-  -https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
-  -https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings
-  -https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
-  -https://marketplace.visualstudio.com/items?itemName=smontanari.vscode-test-toggle
-  -https://marketplace.visualstudio.com/items?itemName=thedavej.night-owl-black
-  -https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle
-  -https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons 
-  - https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
+ ✅ Installed VS Code Extensions: 11
+
+https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
+https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
+https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
+https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
+https://marketplace.visualstudio.com/items?itemName=ms-vscode.sublime-keybindings
+https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+https://marketplace.visualstudio.com/items?itemName=smontanari.vscode-test-toggle
+https://marketplace.visualstudio.com/items?itemName=thedavej.night-owl-black
+https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle
+https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons
+https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one
