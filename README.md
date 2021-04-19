@@ -11,9 +11,9 @@
  - https://imagecolorpicker.com/en online color-picker
   
 
-#Media-Queries
- -@media (min-width: 1025px) and (max-width: 1280px) {
+# Media-Queries
+ - @media (min-width: 1025px) and (max-width: 1280px) {
   
   /* CSS */
   
-}
+    }
