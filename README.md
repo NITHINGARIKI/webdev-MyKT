@@ -12,7 +12,7 @@
  - https://seosherpa.com/seo-basics/ seo basics
  - https://developers.google.com/speed/pagespeed/insights/ for page rating resources.
  - https://www.bpwebs.com/crud-operations-on-google-sheets-with-online-forms/ documentation for google spreadsheets
-   
+ - https://dillinger.io/ read me reference..
 
 # Media-Queries
  - @media (min-width: 1025px) and (max-width: 1280px) 
