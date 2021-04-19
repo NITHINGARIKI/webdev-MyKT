@@ -11,6 +11,7 @@
  - https://imagecolorpicker.com/en online color-picker
  - https://seosherpa.com/seo-basics/ seo basics
  - https://developers.google.com/speed/pagespeed/insights/ for page speed resources.
+ - https://www.bpwebs.com/crud-operations-on-google-sheets-with-online-forms/ documentation for google spreadsheets
    
 
 # Media-Queries
