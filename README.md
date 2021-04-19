@@ -9,6 +9,7 @@
  - https://stackoverflow.com/questions/36243724/whatsapp-html-call-link for whatsapp call attribute
  - https://firt.dev/click-to-call/ special attributes for call,skype,telephone
  - https://imagecolorpicker.com/en online color-picker
+ - https://seosherpa.com/seo-basics/ seo basics
   
 
 # Media-Queries
