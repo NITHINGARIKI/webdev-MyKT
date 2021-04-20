@@ -1,8 +1,7 @@
 
-# WebDevelopment Document Workflow:
-      - Use the document to develop website with much brain effort and better quality in less time
-      - And also 
-
+# Docs Main Aim:
+      - Use the document to develop website with much brain effort and better quality in less time.
+      
 # Website Develop Work flow (or) Checklist:
       - Understand Client content,business logo and colors in logo.
       - Selecting proper template related to the respective field
