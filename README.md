@@ -1,9 +1,33 @@
 
+# WebDevelopment Document Workflow:
+      - Use the document to develop website with much brain effort and better quality in less time
+      - And also 
 
-#My Personal KT
+# Website Develop Work flow (or) Checklist:
+      - Understand Client content,business logo and colors in logo.
+      - Selecting proper template related to the respective field
+      - Break the website into small components
+
+      **
+       -Be Careful about theimages sizes and take care while replacing with the same size image.
+            -#tips
+               - If Client does not have proper images and just try to develop images.
+               - Or just try to develop new.
+               - or use  2/3 images to combine the images.
+               - Use filter options.
+               - Replace all images corresponding to Desktop,mobile options.
+                
+                -If Projects seems to be regular then use the illustrator pattern
+                   ** Reference::::
+                    -Use drawit
+                    -Magic pattern
+                    -25 most trends Designs
+                    -Color picking designing
+                    -Custiom pattern with svg
+                    -Website with backgrounds.
 
 
-# My New WebDevelopment WorkFlow
+# Website Resources:
 
  - https://gist.github.com/richardblondet for google api simple crud operations
  - https://stackoverflow.com/questions/36243724/whatsapp-html-call-link for whatsapp call attribute
