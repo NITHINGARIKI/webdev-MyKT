@@ -8,7 +8,7 @@
       - Break the website into small components
 
       **
-       -Be Careful about theimages sizes and take care while replacing with the same size image.
+       -Be Careful about the images sizes and take care while replacing with the same size image.
             -#tips
                - If Client does not have proper images and just try to develop images.
                - Or just try to develop new.
